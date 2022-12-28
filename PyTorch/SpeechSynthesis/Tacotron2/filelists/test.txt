@@ -1,0 +1,20 @@
+DefranSpeech/wavs/51.wav|Maar er is een essentieel verschil.
+DefranSpeech/wavs/52.wav|Wij kunnen niet zo bizar veel data analyseren daar wint de computer toch echt van ons.
+DefranSpeech/wavs/53.wav|En de training is nog niet klaar.
+DefranSpeech/wavs/54.wav|Want nadat je die computer hebt volgestouwd met data ga je dingen weglaten waardoor die moet gokken wat de uitkomst is.
+DefranSpeech/wavs/55.wav|Het antwoord heb je ergens in die bak met data verstopt.
+DefranSpeech/wavs/56.wav|Het is een beetje als vroeger.
+DefranSpeech/wavs/57.wav|Dat je op zoek moest naar cadeautjes en je vriendjes warm warm koud koud gingen zeggen.
+DefranSpeech/wavs/58.wav|Dat is dit eigenlijk ook.
+DefranSpeech/wavs/59.wav|Want uiteindelijk heeft de computer het juiste antwoord en snapt hij.
+DefranSpeech/wavs/60.wav|Dit is het missende stukje van deze afbeelding of dit stuk tekst.
+DefranSpeech/wavs/61.wav|Nou nog een voorbeeld dan.
+DefranSpeech/wavs/62.wav|Dit is Chat GPT van het bedrijf Open AI.
+DefranSpeech/wavs/63.wav|Opgericht door onder andere en daar is ie weer Elon Musk.
+DefranSpeech/wavs/64.wav|Het is een chatbot die je echt van alles kunt vragen.
+DefranSpeech/wavs/65.wav|Ook in het Nederlands.
+DefranSpeech/wavs/66.wav|De bot bestaat sinds november en sindsdien raken mensen er niet over uitgepraat.
+DefranSpeech/wavs/67.wav|Het kan hele essays schrijven sollicitatiebrieven nu nieuwsberichten.
+DefranSpeech/wavs/68.wav|En blijkbaar ook de intro van deze video.
+DefranSpeech/wavs/69.wav|Chat GPT is een enorm taalmodel dat is gemaakt op basis van bestaande teksten tot en met 2021.
+DefranSpeech/wavs/70.wav|En voor het trainen van dit soort modellen wordt hetzelfde trucje toegepast.

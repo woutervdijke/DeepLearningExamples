@@ -1,0 +1,50 @@
+DefranSpeech/wavs/1.wav|Toen ik begon aan deze video had ik niet verwacht dat ik dit zou zeggen en nee het is niet om mijn eigen baan te redden maar AI is eigenlijk een vrij domme toepassing.
+DefranSpeech/wavs/2.wav|Nee echt ik meen het.
+DefranSpeech/wavs/3.wav|Luister.
+DefranSpeech/wavs/4.wav|AI is heel goed in het uitvoeren van een ding.
+DefranSpeech/wavs/5.wav|Dus herken een bepaald object in een foto.
+DefranSpeech/wavs/6.wav|Of ga van A naar B dat soort dingen.
+DefranSpeech/wavs/7.wav|Maar het heeft geen brein waarmee het logisch kan nadenken.
+DefranSpeech/wavs/8.wav|Iets wat jij en ik wel kunnen. 
+DefranSpeech/wavs/9.wav|Nou kom ik zo op terug.
+DefranSpeech/wavs/10.wav|In deze video gaan we AI ontleden want wat is het eigenlijk.
+DefranSpeech/wavs/11.wav|We kijken naar kritiek erop.
+DefranSpeech/wavs/12.wav|En Jeanine ging kijken bij twee bijzondere AI projecten.
+DefranSpeech/wavs/13.wav|Maar dat komt zo.
+DefranSpeech/wavs/14.wav|We beginnen met die eerste want wat is het.
+DefranSpeech/wavs/15.wav|De basics.
+DefranSpeech/wavs/16.wav|AI of a i staat voor Artificiële Intelligentie of Kunstmatige intelligentie.
+DefranSpeech/wavs/17.wav|Het is de mogelijkheid van een machine om keuzes te maken zonder dat daar een mens aan te pas komt.
+DefranSpeech/wavs/18.wav|En dat voelt misschien ziek futuristisch maar sommige AI technologieën bestaan al meer dan 50 jaar.
+DefranSpeech/wavs/19.wav|Het is ontstaan vanuit het idee om hersenen te nabootsen.
+DefranSpeech/wavs/20.wav|Maar vijftig jaar geleden.
+DefranSpeech/wavs/21.wav|Zag de wereld er natuurlijk heel anders uit.
+DefranSpeech/wavs/22.wav|De echte doorbraken denk aan zelfrijdende autos gezichtsherkenning en nou persoonlijke assistenten als Siri.
+DefranSpeech/wavs/23.wav|Komen natuurlijk door het internet en de enorme bak met data die daarbij komt kijken.
+DefranSpeech/wavs/24.wav|Maar oké als we het over AI hebben waar hebben we het dan eigenlijk over.
+DefranSpeech/wavs/25.wav|AI is een soort hype woord geworden de afgelopen jaren.
+DefranSpeech/wavs/26.wav|Zeg maar een soort ja containerbegrip dat voor veel dingen gebruikt wordt.
+DefranSpeech/wavs/27.wav|En daarom is het goed om te weten dat als we het tegenwoordig over AI hebben we meestal praten over Machine Learning.
+DefranSpeech/wavs/28.wav|En hier wordt het interessant.
+DefranSpeech/wavs/29.wav|Bij Machine Learning leer je een computer patronen te herkennen uit oude data en daaruit voorspellingen te doen en keuzes te maken.
+DefranSpeech/wavs/30.wav|Zonder dat wij mensen tussendoor moeten ingrijpen.
+DefranSpeech/wavs/31.wav|Snap je nee.
+DefranSpeech/wavs/32.wav|Kijk bekend voorbeeld.
+DefranSpeech/wavs/33.wav|Kijk naar dit plaatje.
+DefranSpeech/wavs/34.wav|Wat is het.
+DefranSpeech/wavs/35.wav|Ja inderdaad een hond.
+DefranSpeech/wavs/36.wav|En dit ja.
+DefranSpeech/wavs/37.wav|Een kat.
+DefranSpeech/wavs/38.wav|En dit.
+DefranSpeech/wavs/39.wav|Ja en dit.
+DefranSpeech/wavs/40.wav|Ja goed je snapt het.
+DefranSpeech/wavs/41.wav|En hoe wij dit onderscheid kunnen maken nou dat komt doordat we weten welke eigenschappen een hond en een kat hebben.
+DefranSpeech/wavs/42.wav|Honden hebben een heel ander lijf.
+DefranSpeech/wavs/43.wav|En katten een hele andere kop ze staan anders.
+DefranSpeech/wavs/44.wav|Dat zijn allemaal verschillen die ze anders maken van elkaar.
+DefranSpeech/wavs/45.wav|Nou dit is eigenlijk Machine Learning in het klein.
+DefranSpeech/wavs/46.wav|Want bij Machine Learning geef je een computer duizenden voorbeelden waarvan jij zegt dit is een hond en dit is een kat.
+DefranSpeech/wavs/47.wav|En uiteindelijk snapt ie wat dit is en kan die zelf een hond en een kat herkennen.
+DefranSpeech/wavs/48.wav|En daarin lijkt een computer heel erg op ons mensen.
+DefranSpeech/wavs/49.wav|Want jij en ik hebben ook ooit geleerd hoe een hond en een kat eruit zien.
+DefranSpeech/wavs/50.wav|Ons brein heeft dat als het ware gelabeld. 

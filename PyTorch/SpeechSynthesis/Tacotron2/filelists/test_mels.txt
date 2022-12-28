@@ -1,0 +1,20 @@
+DefranSpeech/mels/51.pt|Maar er is een essentieel verschil.
+DefranSpeech/mels/52.pt|Wij kunnen niet zo bizar veel data analyseren daar wint de computer toch echt van ons.
+DefranSpeech/mels/53.pt|En de training is nog niet klaar.
+DefranSpeech/mels/54.pt|Want nadat je die computer hebt volgestouwd met data ga je dingen weglaten waardoor die moet gokken wat de uitkomst is.
+DefranSpeech/mels/55.pt|Het antwoord heb je ergens in die bak met data verstopt.
+DefranSpeech/mels/56.pt|Het is een beetje als vroeger.
+DefranSpeech/mels/57.pt|Dat je op zoek moest naar cadeautjes en je vriendjes warm warm koud koud gingen zeggen.
+DefranSpeech/mels/58.pt|Dat is dit eigenlijk ook.
+DefranSpeech/mels/59.pt|Want uiteindelijk heeft de computer het juiste antwoord en snapt hij.
+DefranSpeech/mels/60.pt|Dit is het missende stukje van deze afbeelding of dit stuk tekst.
+DefranSpeech/mels/61.pt|Nou nog een voorbeeld dan.
+DefranSpeech/mels/62.pt|Dit is Chat GPT van het bedrijf Open AI.
+DefranSpeech/mels/63.pt|Opgericht door onder andere en daar is ie weer Elon Musk.
+DefranSpeech/mels/64.pt|Het is een chatbot die je echt van alles kunt vragen.
+DefranSpeech/mels/65.pt|Ook in het Nederlands.
+DefranSpeech/mels/66.pt|De bot bestaat sinds november en sindsdien raken mensen er niet over uitgepraat.
+DefranSpeech/mels/67.pt|Het kan hele essays schrijven sollicitatiebrieven nu nieuwsberichten.
+DefranSpeech/mels/68.pt|En blijkbaar ook de intro van deze video.
+DefranSpeech/mels/69.pt|Chat GPT is een enorm taalmodel dat is gemaakt op basis van bestaande teksten tot en met 2021.
+DefranSpeech/mels/70.pt|En voor het trainen van dit soort modellen wordt hetzelfde trucje toegepast.

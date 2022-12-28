@@ -1,0 +1,50 @@
+DefranSpeech/mels/1.pt|Toen ik begon aan deze video had ik niet verwacht dat ik dit zou zeggen en nee het is niet om mijn eigen baan te redden maar AI is eigenlijk een vrij domme toepassing.
+DefranSpeech/mels/2.pt|Nee echt ik meen het.
+DefranSpeech/mels/3.pt|Luister.
+DefranSpeech/mels/4.pt|AI is heel goed in het uitvoeren van een ding.
+DefranSpeech/mels/5.pt|Dus herken een bepaald object in een foto.
+DefranSpeech/mels/6.pt|Of ga van A naar B dat soort dingen.
+DefranSpeech/mels/7.pt|Maar het heeft geen brein waarmee het logisch kan nadenken.
+DefranSpeech/mels/8.pt|Iets wat jij en ik wel kunnen. 
+DefranSpeech/mels/9.pt|Nou kom ik zo op terug.
+DefranSpeech/mels/10.pt|In deze video gaan we AI ontleden want wat is het eigenlijk.
+DefranSpeech/mels/11.pt|We kijken naar kritiek erop.
+DefranSpeech/mels/12.pt|En Jeanine ging kijken bij twee bijzondere AI projecten.
+DefranSpeech/mels/13.pt|Maar dat komt zo.
+DefranSpeech/mels/14.pt|We beginnen met die eerste want wat is het.
+DefranSpeech/mels/15.pt|De basics.
+DefranSpeech/mels/16.pt|AI of a i staat voor Artificiële Intelligentie of Kunstmatige intelligentie.
+DefranSpeech/mels/17.pt|Het is de mogelijkheid van een machine om keuzes te maken zonder dat daar een mens aan te pas komt.
+DefranSpeech/mels/18.pt|En dat voelt misschien ziek futuristisch maar sommige AI technologieën bestaan al meer dan 50 jaar.
+DefranSpeech/mels/19.pt|Het is ontstaan vanuit het idee om hersenen te nabootsen.
+DefranSpeech/mels/20.pt|Maar vijftig jaar geleden.
+DefranSpeech/mels/21.pt|Zag de wereld er natuurlijk heel anders uit.
+DefranSpeech/mels/22.pt|De echte doorbraken denk aan zelfrijdende autos gezichtsherkenning en nou persoonlijke assistenten als Siri.
+DefranSpeech/mels/23.pt|Komen natuurlijk door het internet en de enorme bak met data die daarbij komt kijken.
+DefranSpeech/mels/24.pt|Maar oké als we het over AI hebben waar hebben we het dan eigenlijk over.
+DefranSpeech/mels/25.pt|AI is een soort hype woord geworden de afgelopen jaren.
+DefranSpeech/mels/26.pt|Zeg maar een soort ja containerbegrip dat voor veel dingen gebruikt wordt.
+DefranSpeech/mels/27.pt|En daarom is het goed om te weten dat als we het tegenwoordig over AI hebben we meestal praten over Machine Learning.
+DefranSpeech/mels/28.pt|En hier wordt het interessant.
+DefranSpeech/mels/29.pt|Bij Machine Learning leer je een computer patronen te herkennen uit oude data en daaruit voorspellingen te doen en keuzes te maken.
+DefranSpeech/mels/30.pt|Zonder dat wij mensen tussendoor moeten ingrijpen.
+DefranSpeech/mels/31.pt|Snap je nee.
+DefranSpeech/mels/32.pt|Kijk bekend voorbeeld.
+DefranSpeech/mels/33.pt|Kijk naar dit plaatje.
+DefranSpeech/mels/34.pt|Wat is het.
+DefranSpeech/mels/35.pt|Ja inderdaad een hond.
+DefranSpeech/mels/36.pt|En dit ja.
+DefranSpeech/mels/37.pt|Een kat.
+DefranSpeech/mels/38.pt|En dit.
+DefranSpeech/mels/39.pt|Ja en dit.
+DefranSpeech/mels/40.pt|Ja goed je snapt het.
+DefranSpeech/mels/41.pt|En hoe wij dit onderscheid kunnen maken nou dat komt doordat we weten welke eigenschappen een hond en een kat hebben.
+DefranSpeech/mels/42.pt|Honden hebben een heel ander lijf.
+DefranSpeech/mels/43.pt|En katten een hele andere kop ze staan anders.
+DefranSpeech/mels/44.pt|Dat zijn allemaal verschillen die ze anders maken van elkaar.
+DefranSpeech/mels/45.pt|Nou dit is eigenlijk Machine Learning in het klein.
+DefranSpeech/mels/46.pt|Want bij Machine Learning geef je een computer duizenden voorbeelden waarvan jij zegt dit is een hond en dit is een kat.
+DefranSpeech/mels/47.pt|En uiteindelijk snapt ie wat dit is en kan die zelf een hond en een kat herkennen.
+DefranSpeech/mels/48.pt|En daarin lijkt een computer heel erg op ons mensen.
+DefranSpeech/mels/49.pt|Want jij en ik hebben ook ooit geleerd hoe een hond en een kat eruit zien.
+DefranSpeech/mels/50.pt|Ons brein heeft dat als het ware gelabeld. 

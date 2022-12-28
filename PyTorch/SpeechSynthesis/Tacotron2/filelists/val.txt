@@ -1,0 +1,8 @@
+DefranSpeech/wavs/71.wav|Het is eerst volgestopt met al die teksten en vervolgens wordt er een model gemaakt waarbij die computer een leeg gelaten deel in die zin zelf moet invullen.
+DefranSpeech/wavs/72.wav|Bijvoorbeeld ik heb deze puntje puntje puntje echt gebinged.
+DefranSpeech/wavs/73.wav|Nou daar moet natuurlijk film staan.
+DefranSpeech/wavs/74.wav|Maar wat deze bot ook kan.
+DefranSpeech/wavs/75.wav|Het kan niet alleen op jou reageren maar je kunt zelfs vragen om dingen simpel uit te leggen.
+DefranSpeech/wavs/76.wav|Bijvoorbeeld voor een zesjarige.
+DefranSpeech/wavs/77.wav|En als jij dat vraagt weet het dus dat ie in een database moet kijken met simpel taalgebruik.
+DefranSpeech/wavs/78.wav|Das echt wel indrukwekkend.
